@@ -1,0 +1,20 @@
+# project  configured on Fri Apr 16 18:43:12 2021 by
+# waf 2.0.9 (abi 20, python 20712f0 on linux2)
+# using /home/eduardo/ROS_Projects/apm/ardupilot/modules/waf/waf-light configure --board Durandal --out /home/eduardo/ROS_Projects/apm/ardupilot/build.tmp.binaries/binaries.build clean
+#
+----------------------------------------
+Setting top to
+/home/eduardo/ROS_Projects/apm/ardupilot
+----------------------------------------
+Setting out to
+/home/eduardo/ROS_Projects/apm/ardupilot/build.tmp.binaries/binaries.build
+----------------------------------------
+Autoconfiguration
+enabled
+----------------------------------------
+Setting board to
+Durandal
+----------------------------------------
+Using toolchain
+arm-none-eabi
+from /home/eduardo/ROS_Projects/apm/ardupilot: Could not find the program ['arm-none-eabi-ar']
